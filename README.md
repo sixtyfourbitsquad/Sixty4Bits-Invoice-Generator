@@ -3,15 +3,7 @@
   \___ \| \ \/ / __| | | | || |_| '_ \| | __\___ \ / _` | | | |/ _` |/ _` |
    ___) | |>  <| |_| |_| |__   _| |_) | | |_ ___) | (_| | |_| | (_| | (_| |
   |____/|_/_/\_\\__|\__, |  |_| |_.__/|_|\__|____/ \__, |\__,_|\__,_|\__,_|
- ___                |___/                             |_|                  
-|_ _|_ ____   _____ (_) ___ ___                                            
- | || '_ \ \ / / _ \| |/ __/ _ \                                           
- | || | | \ V / (_) | | (_|  __/                                           
-|___|_| |_|\_/ \___/|_|\___\___| _                                         
- / ___| ___ _ __   ___ _ __ __ _| |_ ___  _ __                             
-| |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|                            
-| |_| |  __/ | | |  __/ | | (_| | || (_) | |                               
- \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|       
+ __             |___/                             |_|                  
 
  
 Welcome to the Sixty4bitSquad Invoice Generator! 🎉 This Python script helps you easily create beautiful, professional invoices in PDF format. With just a few details about your customer and the items or services they purchased, you’ll have an invoice ready in no time!
