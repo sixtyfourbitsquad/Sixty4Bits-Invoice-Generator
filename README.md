@@ -101,7 +101,7 @@ Total calculated automatically at the bottom 💵
 
 
 
-![Result](Result,png)
+![Result](Result.png)
 ![Sixty4bitSquad Logo](logo.png)
 
 
