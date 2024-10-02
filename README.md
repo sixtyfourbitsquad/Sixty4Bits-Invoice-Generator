@@ -98,5 +98,7 @@ Total calculated automatically at the bottom 💵
 
 "Thank You"
 ![Result](Result,png)
+![Sixty4bitSquad Logo](logo.png)
+
 
             
